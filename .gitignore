@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/2- First Steps in Java/First Steps in Java/Print Messages/out/
+/2- First Steps in Java/First Steps in Java/Print Messages/out/production/classes/
+/build/

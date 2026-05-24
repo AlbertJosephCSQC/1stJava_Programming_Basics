@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="55393906">
+                <value>
+                  <list>
+                    <Term value="Run-time" definition="Errors that occur while the program is running, often causing it to crash or behave unexpectedly." />
+                    <Term value="semantics" definition="The meaning or interpretation of code, affecting how programs behave or produce results." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="76311992">
+                <value>
+                  <list>
+                    <Term value="main method" definition="The entry point for Java applications; where program execution begins." />
+                    <Term value="syntax" definition="The set of rules that defines the structure of valid Java code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="166065893">
+                <value>
+                  <list>
+                    <Term value="boolean" definition="A data type representing two values: true or false, often used for logical conditions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="300047858">
+                <value>
+                  <list>
+                    <Term value="floating-point" definition="A number type in Java that can represent fractions and decimals, such as double or float." />
+                    <Term value="integer division" definition="Division between two integers, discarding any fractional part, returning only the whole number." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="489247402">
+                <value>
+                  <list>
+                    <Term value="ladder" definition="A sequence of if-else statements used to check multiple conditions in order." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="674691391">
+                <value>
+                  <list>
+                    <Term value="Nested Conditional" definition="An if-else statement placed inside another if or else block." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="717414971">
+                <value>
+                  <list>
+                    <Term value="operators" definition="A symbol that tells the compiler to perform specific mathematical or logical operations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="727186020">
+                <value>
+                  <list>
+                    <Term value="if statement" definition="A control structure that executes code only if a specified condition is true." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="737732679">
+                <value>
+                  <list>
+                    <Term value="argument" definition="A value passed to a method or function when it is called." />
+                    <Term value="syntax" definition="The set of rules that defines how Java code must be written." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="855399374">
+                <value>
+                  <list>
+                    <Term value="console" definition="A text-based interface for displaying program output and receiving user input." />
+                    <Term value="cursor" definition="The position indicator showing where the next character will appear or be acted upon." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="867885234">
+                <value>
+                  <list>
+                    <Term value="expressions" definition="A combination of variables, operators, and values that produces a single result value." />
+                    <Term value="char" definition="A data type in Java used to store a single 16-bit Unicode character." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1004394986">
+                <value>
+                  <list>
+                    <Term value="statement" definition="A single instruction in code that performs an action, like assignment or output." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1016082375">
+                <value>
+                  <list>
+                    <Term value="operand" definition="A value or variable on which an operator performs an action in an expression." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1024825647">
+                <value>
+                  <list>
+                    <Term value="iteration" definition="A single cycle through the body of a loop in programming." />
+                    <Term value="Statements" definition="A single instruction in a programming language executed by the computer." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1164200750">
+                <value>
+                  <list>
+                    <Term value="truncated" definition="Removing the fractional part of a number, leaving only the integer portion." />
+                    <Term value="type coercion" definition="Automatic conversion of one data type to another by the compiler." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1181385661">
+                <value>
+                  <list>
+                    <Term value="integer division" definition="Division operation where the fractional part is discarded, returning only the integer quotient." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1315739855">
+                <value>
+                  <list>
+                    <Term value="Boolean" definition="A data type representing true or false values, used for logical operations in programming." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1323219325">
+                <value>
+                  <list>
+                    <Term value="compiler" definition="A program that translates source code into machine code or bytecode for execution." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1337403617">
+                <value>
+                  <list>
+                    <Term value="While" definition="A loop that repeats code while a condition remains true." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1397636799">
+                <value>
+                  <list>
+                    <Term value="arithmetic operator" definition="A symbol that performs mathematical operations like addition, subtraction, multiplication, or division." />
+                    <Term value="assignment operator" definition="An operator (=) that assigns the value on the right to the variable on the left." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1434066292">
+                <value>
+                  <list>
+                    <Term value="console" definition="A text-based interface for displaying program output and accepting user input." />
+                    <Term value="cursor" definition="The position indicator showing where the next character will appear on the screen." />
+                    <Term value="Statement" definition="A complete instruction in a programming language that performs an action." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1504018571">
+                <value>
+                  <list>
+                    <Term value="iterates" definition="To repeat a process or set of instructions, usually within a loop structure." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1628600384">
+                <value>
+                  <list>
+                    <Term value="for" definition="A control flow statement for repeated execution of a block of code with a counter variable." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1800142076">
+                <value>
+                  <list>
+                    <Term value="console" definition="A text-based interface for displaying output or receiving input from a program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1819671675">
+                <value>
+                  <list>
+                    <Term value="operator precedence" definition="The rules that determine the order in which operations are evaluated in an expression." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1851648316">
+                <value>
+                  <list>
+                    <Term value="fall through" definition="In switch statements, execution continues into subsequent cases if break is omitted." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1858071847">
+                <value>
+                  <list>
+                    <Term value="Boolean_Expression" definition="An expression that evaluates to either true or false in Java." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1954069082">
+                <value>
+                  <list>
+                    <Term value="initialize" definition="To assign an initial value to a variable at the time of its declaration." />
+                    <Term value="declare" definition="To define a variable's name and type, reserving space in memory for it." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1963080412">
+                <value>
+                  <list>
+                    <Term value="Boolean expression" definition="An expression that evaluates to either true or false." />
+                    <Term value="Infinite\endless loop" definition="A loop that never terminates because its exit condition is never met." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2002716117">
+                <value>
+                  <list>
+                    <Term value="println" definition="A Java method used to print text to the console, followed by a new line." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2005674487">
+                <value>
+                  <list>
+                    <Term value="for loops" definition="A control structure that repeats a block of code a specific number of times." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2026225761">
+                <value>
+                  <list>
+                    <Term value="assembly language" definition="A low-level programming language closely related to machine code, using symbolic instructions." />
+                    <Term value="syntax" definition="The set of rules that defines the structure of statements in a programming language." />
+                    <Term value="compilers" definition="Programs that translate code from high-level languages to machine language for execution." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2136818321">
+                <value>
+                  <list>
+                    <Term value="Divisible" definition="A number is divisible by another if it divides evenly with no remainder." />
+                    <Term value="condition" definition="An expression that evaluates to true or false, used to control program flow." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="77" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
