@@ -1,6 +1,8 @@
 ### Star Loops
+
 ***
-#### Write a Java code to produce the output shown below:    
+
+#### Write a Java code to produce the output shown below:
 
 *******<br>
 ******<br>

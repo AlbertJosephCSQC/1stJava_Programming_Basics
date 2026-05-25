@@ -9,8 +9,8 @@ files:
   - name: src/StarLoops.java
     visible: true
     placeholders:
-      - offset: 119
-        length: 189
+      - offset: 123
+        length: 172
         placeholder_text: /* Writ your answer here */
         initial_state:
           length: 27

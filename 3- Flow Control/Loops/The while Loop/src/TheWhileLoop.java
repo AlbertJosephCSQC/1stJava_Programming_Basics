@@ -1,16 +1,13 @@
-public class TheWhileLoop
-{
-   public static void main(String[] args)
-   {
-      int i = 1;
-      System.out.println("This is While Loop");
-      System.out.print("The first 10 natural numbers are:\n");
+public class TheWhileLoop {
+    public static void main(String[] args) {
+        int i = 1;
+        System.out.println("This is While Loop");
+        System.out.print("The first 10 natural numbers are:\n");
 
-      while(i <= 10)
-      {
-         System.out.println("counter value is " + i);
-         i++;  // Variable update is important in the while loops.
-      }
+        while (i <= 10) {
+            System.out.println("counter value is " + i);
+            i++;  // Variable update is important in the while loops.
+        }
 
 
    /*
@@ -22,5 +19,5 @@ public class TheWhileLoop
          System.out.println("This is an infinite loop!");
       }
    */
-   }
+    }
 }
